@@ -12,8 +12,8 @@
   ],
   "type": "module",
   "license": "MIT",
-  "homepage": "https://github.com/frida/gumjs-assert",
-  "repository": "frida/gumjs-assert",
+  "homepage": "https://github.com/frida-packages/gumjs-assert",
+  "repository": "frida-packages/gumjs-assert",
   "keywords": [
     "assert"
   ]
